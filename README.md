@@ -39,7 +39,7 @@ The **Data Jobs Calculator** dashboard includes:
 ## 📚 Credits
 
 - Tutorial by [Luke Barousse](https://www.youtube.com/@LukeBarousse)  
-- Dataset sourced from Dataset sourced from [Dataset](https://github.com/lukebarousse/Excel_Data_Analytics_Course)
+- Dataset sourced from [Dataset](https://github.com/lukebarousse/Excel_Data_Analytics_Course)
 
 ---
 
