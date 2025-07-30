@@ -34,6 +34,9 @@ The **Data Jobs Calculator** dashboard includes:
 - Interactive filtering with dropdowns
 - Replicating a professional-grade project from scratch
 
+  ![Dashboard Preview](Project_Pic.png)
+
+
 ---
 
 ## 📚 Credits
